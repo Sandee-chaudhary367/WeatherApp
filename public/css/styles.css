@@ -18,6 +18,10 @@
     align-items: center; 
 }
 
+.cen{
+    text-align: center;
+}
+
 span{
     padding: 0;
 }
