@@ -1,0 +1,52 @@
+.header{
+    display: flex;
+    flex-direction: column;
+   border-bottom: solid 3px black;
+    align-items: center;
+}
+
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: inherit;
+  }
+
+.search_bar{
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center; 
+}
+
+span{
+    padding: 0;
+}
+.forcast{
+    display: flex;
+    flex-direction: column;
+    border-bottom: solid 3px black;
+    align-items: center;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+}
+
+.main{
+    border: solid 10px black;
+    background-color: rgba(169, 169, 169, 0.219);
+}
+
+h1{
+    font-size: 4rem;
+    
+}
